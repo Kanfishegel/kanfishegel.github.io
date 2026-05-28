@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhou Fang|Math
+title: Yanfei Zhu|Math
 ---
 <style>
   /* ✅ 1. 所有 a 链接显示为红色（覆盖自带主题） */
@@ -19,11 +19,11 @@ title: Zhou Fang|Math
 
 # About Me
 
-My name is **Zhou Fang (Jo, 方舟)**.
+My name is **Yanfei Zhu**.
 
-I am a master's student at Southern University of Science and Technology (SUSTech). My advisor is <a href="https://yifeizhu.github.io/" target="_blank" style="color: #e63946;">Yifei Zhu</a>. 
+I am a master's student in mathematics at the University of Wisconsin–Madison.
 
-**Email:** <a href="mailto:fangz2023@mail.sustech.edu.cn">fangz2023@mail.sustech.edu.cn</a>
+**Email:** <a href="mailto:kanfischegel@gmail.com">kanfischegel@gmail.com</a>
 
 **CV:** see <a href="https://JoZhouFang.github.io/file/CV_ZhouFang.pdf" target="_blank"><span style="color: #e63946;">here</span></a>
 
