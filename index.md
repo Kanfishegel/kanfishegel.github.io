@@ -30,19 +30,15 @@ I am a master's student in mathematics at the University of Wisconsin–Madison.
 
 ## Academic Background
 
-- **Sep 2023 - expected Jun 2026:** Southern University of Science and Technology, advised by <a href="https://yifeizhu.github.io/" target="_blank"><span style="color: #e63946;">Yifei Zhu</span></a>.
-- **Sep 2019 - Jun 2023:** Southern University of Science and Technology, advised by <a href="https://www.sustech.edu.cn/zh/faculties/liangkong.html" target="_blank"><span style="color: #e63946;">Liang Kong</span></a> and <a href="https://phy.sustech.edu.cn/faculty/detail/id/221.html?lang=zh-cn" target="_blank"><span style="color: #e63946;">Fei Ye</span></a>.
+- **Sep 2024 - May 2026:** University of Wisconsin-Madison</a>
+- **Sep 2021 - Jun 2025:** Southern University of Science and Technology</a>
 
 ---
-- Category Theory: Infinity categories, Simplicial sets, Derived functors, Model categories, Homotopy limits/colimits
-- Algebraic Topology: Stable homotopy theory, Intersection homology/homotopy, Bundle theory
-- Geometry: Algebraic geometry, Differential geometry especially holomorphic bundles, such as Higgs bundles 
-- Quantum Physics: Quantum information, Quantum optics, Quantum technology, Topological order 
+- Algebraic Topology: 
+- Geometry: 
 
 ## Research Interests
 
-- Category Theory
 - Homotopy Theory
-- Topology in Physics
 
-More specifically, I am interested in homological and homotopical methods in algebra, geometry, and topology, as well as in studying problems from the perspective of category theory.
+Waiting to be added
