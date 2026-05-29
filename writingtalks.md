@@ -17,12 +17,11 @@ title: Writing/Talks
   }
 </style>
 
-The work I do can be divided into three parts: 
-- Homotopy theory
-- Infinity categories
-- Topology of the configuration of eigenvectors and eigenvalues of parametrized Hamiltonians（Preprint）
+The work I do can be divided into two parts: 
+- Algebraic topology
+- Differential topology
 
-## 1.Homotopy theory
+## 1.Algebraic topology
 
 ### 1.1 Talks
 - **<a href="https://JoZhouFang.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of SUSTech, May 23, 2025 
@@ -59,7 +58,7 @@ The work I do can be divided into three parts:
 
 
 
-## 2.Infinity categories
+## 2.Defferential topology
 
 ### 2.1 Talks
  - **<a href="https://JoZhouFang.github.io/file/inf_cat_4.18.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of SUSTech, April 18, 2025 
