@@ -23,23 +23,15 @@ title: Experiences
 
 ## Academic conference participation:
 
-- **International Workshop on Algebraic Topology 2025: Computations with the Adams Spectral Sequence and the Last Kervaire Invariant Problem**, Westlake University, Hangzhou, Jun 2025
+- **International Workshop on Algebraic Topology 2025: Computations with the Adams Spectral Sequence and the Last Kervaire Invariant Problem**, Westlake University, Hangzhou, Jun. 2025
 
-- **Summer School at the University of Science and Technology of China 2025**, 
-
-- **Workshop on computer-assisted research in geometry and topology (Oral presentation)**, Kunming Tianyuan Mathematics Research Center, 2024.9.8-9.14
-
-- **Workshop on Stable homotopy groups of spheres: Theories and Computations, where to now**, Tsinghua Sanya International Mathematics Forum, 2025.3.9-3.13
+- **Summer School at the University of Science and Technology of China 2025: Topic in geometry and analysis**, Hefei, Jun. 2025
 
 ---
 
 ## Teaching Experience:
 
-As a teaching assistant at the university, I was required to **give a weekly class** to help students with review and academic enrichment beyond the regular curriculum.
-
- - **Calculus I** (fall 2023), teaching resources are <a href="https://JoZhouFang.github.io/experences/admath" target="_blank"><span style="color: #e63946;">here</span></a>
-- **Linear algebra** (fall 2024), teaching resources are <a href="https://JoZhouFang.github.io/experences/la" target="_blank"><span style="color: #e63946;">here</span></a>
-
+- **Grader**, Department of Mathematics, UW–Madison, Feb. 2026 - May. 2026
 
 <script>
   MathJax = {
