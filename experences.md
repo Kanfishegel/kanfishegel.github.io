@@ -30,8 +30,9 @@ title: Experiences
 ---
 
 ## Teaching Experience:
-
+Grading undergraduate mathematics assignments; providing clear written feedback. 
 - **Grader**, Department of Mathematics, UW–Madison, Feb. 2026 - May. 2026
+
 
 <script>
   MathJax = {
