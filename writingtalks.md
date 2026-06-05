@@ -24,7 +24,7 @@ The work I do can be divided into two parts:
 ## 1.Algebraic topology
 
 ### 1.1 Talks
-- **<a href="https://JoZhouFang.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of SUSTech, May 23, 2025 
+- **<a href="https://kanfishegel.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of SUSTech, May 23, 2025 
 
 - **<a href="https://JoZhouFang.github.io/file/Kervaire_inv.pdf" target="_blank">John Jones's construction of a manifold in dimension 30 with the Kervaire invariant one</a>**, Graduate topology seminar of SUSTech, December 9, 2025
 
@@ -61,7 +61,7 @@ The work I do can be divided into two parts:
 ## 2.Defferential topology
 
 ### 2.1 Talks
- - **<a href="https://JoZhouFang.github.io/file/inf_cat_4.18.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of SUSTech, April 18, 2025 
+ - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of SUSTech, April 18, 2025 
 
 ### 2.2 Organized Workshops
  - **Workshop on infinite-categories**, fall 2023, organized by <a href="mailto:12332880@mail.sustech.edu.cn">Yunhao Sun</a> and me 
