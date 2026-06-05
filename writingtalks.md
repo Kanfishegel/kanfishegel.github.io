@@ -61,7 +61,7 @@ The work I do can be divided into two parts:
 ## 2.Defferential topology
 
 ### 2.1 Talks
- - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of SUSTech, April 18, 2025 
+ - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Fundamental Theorem of Morse Theory</a>**, Directed Reading on Riemannian Geometry and Morse Theory, Univesity of Wisconsin-Madison, Sep. 20 2025 
 
 ### 2.2 Organized Workshops
  - **Workshop on infinite-categories**, fall 2023, organized by <a href="mailto:12332880@mail.sustech.edu.cn">Yunhao Sun</a> and me 
