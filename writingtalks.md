@@ -27,7 +27,7 @@ The work I do can be divided into two parts:
 - **<a href="https://kanfishegel.github.io/file/Some_Example_for_Computation_of_Intersection_Homology.pdf" target="_blank">Some Examples for Computation of Intersection Homology.pdf</a>**, Intersection Homology Seminar, University of Wisconsin-Madison, Sep. 22, 2025 
 
 
-<!--
+<!--注释起
 
 ### 1.2 Writings/Notes
 
@@ -57,7 +57,7 @@ The work I do can be divided into two parts:
  </li>
 </ul>
 
--->
+注释结束-->
 
 
 ## 2.Defferential topology
@@ -65,6 +65,7 @@ The work I do can be divided into two parts:
 ### 2.1 Talks
  - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Fundamental Theorem of Morse Theory</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, Univesity of Wisconsin-Madison, Sep. 20 2025 
 
+<!--注释起
 ### 2.2 Organized Workshops
  - **Workshop on infinite-categories**, fall 2023, organized by <a href="mailto:12332880@mail.sustech.edu.cn">Yunhao Sun</a> and me 
 
@@ -126,6 +127,8 @@ The related works are as follows:
  in linear algebra. In this article, we aim to elucidate these abstract notions
  by developing the physical manifestations of two systems: the 1/2-spin system and the two-particle system.
  </details>
+
+ 注释结束-->
  </li>
 </ul>
 
