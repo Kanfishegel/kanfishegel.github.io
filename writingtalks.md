@@ -24,9 +24,10 @@ The work I do can be divided into two parts:
 ## 1.Algebraic topology
 
 ### 1.1 Talks
-- **<a href="https://kanfishegel.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of SUSTech, May 23, 2025 
+- **<a href="https://kanfishegel.github.io/file/Some_Example_for_Computation_of_Intersection_Homology.pdf" target="_blank">Some Examples for Computation of Intersection Homology.pdf</a>**, Intersection Homology Seminar, University of Wisconsin-Madison, Sep. 22, 2025 
 
-- **<a href="https://JoZhouFang.github.io/file/Kervaire_inv.pdf" target="_blank">John Jones's construction of a manifold in dimension 30 with the Kervaire invariant one</a>**, Graduate topology seminar of SUSTech, December 9, 2025
+
+<!--
 
 ### 1.2 Writings/Notes
 
@@ -56,6 +57,7 @@ The work I do can be divided into two parts:
  </li>
 </ul>
 
+-->
 
 
 ## 2.Defferential topology
