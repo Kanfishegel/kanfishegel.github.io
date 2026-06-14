@@ -63,7 +63,9 @@ The work I do can be divided into two parts:
 ## 2.Defferential topology
 
 ### 2.1 Talks
- - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Fundamental Theorem of Morse Theory</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, Univesity of Wisconsin-Madison, Sep. 20 2025 
+ - **<a href="https://kanfishegel.github.io/file/More_on_Positive_Curvature.pdf" target="_blank">More on Positive Curvature</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, Univesity of Wisconsin-Madison, Jul. 15 2025 
+
+ - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Fundamental Theorem of Morse Theory</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, Univesity of Wisconsin-Madison, Sep. 29 2025 
 
 <!--注释起
 ### 2.2 Organized Workshops
@@ -128,8 +130,8 @@ The related works are as follows:
  by developing the physical manifestations of two systems: the 1/2-spin system and the two-particle system.
  </details>
 
- 注释结束-->
+
  </li>
 </ul>
 
-
+ 注释结束-->
