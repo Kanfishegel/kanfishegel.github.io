@@ -24,7 +24,7 @@ The work I do can be divided into two parts:
 ## 1.Algebraic topology
 
 ### 1.1 Talks
-- **<a href="https://kanfishegel.github.io/file/Some_Example_for_Computation_of_Intersection_Homology.pdf" target="_blank">Some Examples for Computation of Intersection Homology.pdf</a>**, Intersection Homology Seminar, University of Wisconsin-Madison, Sep. 22, 2025 
+- **<a href="https://kanfishegel.github.io/file/Some_Example_for_Computation_of_Intersection_Homology.pdf" target="_blank">Some Examples for Computation of Intersection Homology</a>**, Intersection Homology Seminar, University of Wisconsin-Madison, Sep. 22, 2025 
 
 
 <!--注释起
