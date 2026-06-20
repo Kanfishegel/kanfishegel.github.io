@@ -63,6 +63,8 @@ The work I do can be divided into two parts:
 ## 2.Defferential topology
 
 ### 2.1 Talks
+- **<a href="https://kanfishegel.github.io/file/Jacobi_Field.pdf" target="_blank">Jacobi Field</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, Univesity of Wisconsin-Madison, May. 18 2025
+
  - **<a href="https://kanfishegel.github.io/file/More_on_Positive_Curvature.pdf" target="_blank">More on Positive Curvature</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, Univesity of Wisconsin-Madison, Jul. 15 2025 
 
  - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Fundamental Theorem of Morse Theory</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, Univesity of Wisconsin-Madison, Sep. 29 2025 
