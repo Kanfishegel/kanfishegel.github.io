@@ -21,7 +21,7 @@ title: Yanfei Zhu|Math
 
 My name is **Yanfei Zhu**.
 
-I am a master's student in mathematics at the University of Wisconsin–Madison.
+I received my M.A. in Mathematics from the University of Wisconsin–Madison in May 2026. My research interests include equivariant homotopy theory, homological stability, and differential topology.
 
 **Email:** <a href="mailto:kanfischegel@gmail.com">kanfischegel@gmail.com</a>
 
