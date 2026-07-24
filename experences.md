@@ -23,9 +23,9 @@ title: Experiences
 
 ## Academic conference participation:
 
-- **International Workshop on Algebraic Topology 2025: Computations with the Adams Spectral Sequence and the Last Kervaire Invariant Problem**, Westlake University, Hangzhou, Jun. 2025
+- **International Workshop on Algebraic Topology 2025: Computations with the Adams Spectral Sequence and the Last Kervaire Invariant Problem**, Westlake University, Hangzhou, Jul. 2025
 
-- **Summer School at the University of Science and Technology of China 2025: Topic in geometry and analysis**, Hefei, Jun. 2025
+- **Summer School at the University of Science and Technology of China 2025: Topic in geometry and analysis**, Hefei, Jul. 2025
 
 ---
 
