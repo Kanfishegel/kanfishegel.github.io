@@ -30,8 +30,8 @@ I am a master's student in mathematics at the University of Wisconsin–Madison.
 
 ## Academic Background
 
-- **Sep 2024 - May 2026:** University of Wisconsin-Madison</a>
-- **Sep 2021 - Jun 2025:** Southern University of Science and Technology</a>
+- **Sep 2024 - May 2026:** University of Wisconsin-Madison
+- **Sep 2021 - Jun 2025:** Southern University of Science and Technology
 
 ---
 - Algebraic Topology: 
