@@ -28,6 +28,17 @@ The work I do can be divided into two parts:
 
 ### 1.2 Writing/Notes
 
+<ul>
+<li>
+ <strong><a href="https://kanfishegel.github.io/file/Mackey functor and group homology.pdf" target="_blank">Notes on Mackey functor and group homology</a></strong>
+ <details>
+ <summary>Abstract</summary>
+ The main reference of this note is Hatcher's algebraic topology and ch1,2 for this <a href="https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf" target="_blank">lecture notes</a>.
+ </details>
+ </li>
+
+</ul>
+
 <!--注释起
 
 ### 1.2 Writings/Notes
