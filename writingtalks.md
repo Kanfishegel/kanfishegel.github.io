@@ -41,7 +41,7 @@ The work I do can be divided into two parts:
  <strong><a href="https://kanfishegel.github.io/file/Equivariant homotopy theory.pdf" target="_blank">Notes on Equivariant homotopy theory</a></strong>
  <details>
  <summary>Abstract</summary>
- Introduce some basic definitions about Equivariant homotopy theory. The main reference of this note is Bertrand Guillou's lecture notes.
+ Introduce some basic definitions about Equivariant homotopy theory. The main reference of this note is Bertrand Guillou's <strong><a href="https://kanfishegel.github.io/file/1_751Notes.pdf" target="_blank">lecture notes</a></strong>.
  </details>
  </li>
 
