@@ -25,7 +25,7 @@ I am a master's student in mathematics at the University of Wisconsin–Madison.
 
 **Email:** <a href="mailto:kanfischegel@gmail.com">kanfischegel@gmail.com</a>
 
-**CV:** see <a href="https://kanfishegel.github.io/file/Resume Yanfei Zhu.pdf" target="_blank"><span style="color: #e63946;">here</span></a>
+**CV:** see <a href="file/Resume Yanfei Zhu.pdf" target="_blank"><span style="color: #e63946;">here</span></a>
 
 
 ## Academic Background
