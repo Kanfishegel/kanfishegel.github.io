@@ -35,7 +35,7 @@ The work I do can be divided into two parts:
  <strong><a href="https://kanfishegel.github.io/file/Mackey functor and group homology.pdf" target="_blank">Notes on Mackey functor and group homology</a></strong>
  <details>
  <summary>Abstract</summary>
- Introduce some basic definitions about representation theory, like representation ring, Mackey functor and so on.
+ Basic algebraic tools for equivariant homotopy theory. Introduce some basic definitions about representation theory, like representation ring, Mackey functor and so on.
  </details>
  </li>
 
@@ -43,7 +43,7 @@ The work I do can be divided into two parts:
  <strong><a href="file/Equivariant homotopy theory.pdf" target="_blank">Notes on Equivariant homotopy theory</a></strong>
  <details>
  <summary>Abstract</summary>
- Introduce some basic definitions about equivariant homotopy theory. The main reference of this note is Bertrand Guillou's <strong><a href="https://kanfishegel.github.io/file/1_751Notes.pdf" target="_blank">lecture notes</a></strong>.
+ Introduce some basic definitions about equivariant homotopy theory, like equivariant homotopy group, Borel homology and Bredon homology. The main reference of this note is Bertrand Guillou's <strong><a href="https://kanfishegel.github.io/file/1_751Notes.pdf" target="_blank">lecture notes</a></strong>.
  </details>
  </li>
 
