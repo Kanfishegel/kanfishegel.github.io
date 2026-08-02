@@ -40,7 +40,7 @@ The work I do can be divided into two parts:
  </li>
 
  <li>
- <strong><a href="file/Equivariant homotopy theory.pdf" target="_blank">Notes on Equivariant homotopy theory</a></strong>
+ <strong><a href="https://kanfishegel.github.io/file/Equivariant homotopy theory.pdf" target="_blank">Notes on Equivariant homotopy theory</a></strong>
  <details>
  <summary>Abstract</summary>
  Introduce some basic definitions about equivariant homotopy theory, like equivariant homotopy group, Borel homology and Bredon homology. The main reference of this note is Bertrand Guillou's <strong><a href="https://kanfishegel.github.io/file/1_751Notes.pdf" target="_blank">lecture notes</a></strong>.
