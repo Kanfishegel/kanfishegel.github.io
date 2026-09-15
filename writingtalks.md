@@ -48,7 +48,7 @@ The work I do can be divided into two parts:
  </li>
 
  <li>
- <strong><a href="file/IWoAT2026_Notes.pdf" target="_blank">Notes on IWoAT 2026 Summer school</a></strong>
+ <strong><a href="https://kanfishegel.github.io/file/IWoAT2026_Notes.pdf" target="_blank">Notes on IWoAT 2026 Summer school</a></strong>
  <details>
  <summary>Abstract</summary>
  Introduce some basic definitions in stable homotopy theory and brave new algebra. The notes are compiled from my handwriting motes when participating International Workshop of Algebra Topology 2026 Summer School.
