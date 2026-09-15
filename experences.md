@@ -25,7 +25,7 @@ title: Experiences
 
 - **International Workshop on Algebraic Topology 2025: Computations with the Adams Spectral Sequence and the Last Kervaire Invariant Problem**, Westlake University, Hangzhou, Jul. 2025
   
-- **International Workshop on Algebraic Topology 2026: AN INTRODUCTION TO STABLE HOMOTOPY THEORY AND BRAVE NEW ALGEBRA**, Chinese Academy of Sciences, Beijing, Aug. 2026
+- **International Workshop on Algebraic Topology 2026: An Introduction tO Stable Homotopy Theory and Brave New Algebra**, Chinese Academy of Sciences, Beijing, Aug. 2026
 
 - **Summer School at the University of Science and Technology of China 2025: Topic in geometry and analysis**, Hefei, Jul. 2025
 
