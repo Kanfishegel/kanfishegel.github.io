@@ -48,10 +48,10 @@ The work I do can be divided into two parts:
  </li>
 
  <li>
- <strong><a href="https://kanfishegel.github.io/file/Equivariant homotopy theory.pdf" target="_blank">Notes on IWoAT2026</a></strong>
+ <strong><a href="https://kanfishegel.github.io/file/IWoAT2026_Notes.pdf" target="_blank">Notes on IWoAT 2026 Summer school</a></strong>
  <details>
  <summary>Abstract</summary>
- Introduce some basic definitions about equivariant homotopy theory, like equivariant homotopy group, Borel homology and Bredon homology. The main reference of this note is Bertrand Guillou's <strong><a href="https://kanfishegel.github.io/file/1_751Notes.pdf" target="_blank">lecture notes</a></strong>.
+ Introduce some basic definitions in stable homotopy theory and brave new algebra. The notes are compiled from my handwriting motes when participating International Workshop of Algebra Topology Summer School.
  </details>
  </li>
 
