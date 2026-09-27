@@ -32,19 +32,20 @@ The work I do can be divided into two parts:
 
 <ul>
 <li>
- <strong><a href="https://kanfishegel.github.io/file/Mackey functor and group homology.pdf" target="_blank">Notes on Mackey functor and group homology</a></strong>
+ <strong><a href="https://kanfishegel.github.io/file/C_2.pdf" target="_blank">Two Lifted Actions on Oriented Configuration Spaces: Stabilization
+and Bredon Homology</a></strong>
  <details>
  <summary>Abstract</summary>
- Basic algebraic tools for equivariant homotopy theory. Introduce some basic definitions about representation theory, like representation ring, Mackey functor and so on.
+We study the two lifts of the reflection action to oriented configuration spaces of Euclidean space, where the fixed subspace has dimension at least two. We describe their fixed-point spaces and the parity condition relating the choice of lift to the number of free orbits. Combining both lifts and all configuration sizes, we prove that Bredon homology with constant integral coefficients is finitely generated in each homological degree over a polynomial ring in two variables with integer coefficients. The two variables act by adding a fixed point and a free orbit, respectively.
  </details>
  </li>
 
 
 <li>
- <strong><a href="https://kanfishegel.github.io/file/Mackey functor and group homology.pdf" target="_blank">Notes on Mackey functor and group homology</a></strong>
+ <strong><a href="https://kanfishegel.github.io/file/C_3.pdf" target="_blank">The RO(C3)-Graded Cohomolofy of A Complete Flag Varity</a></strong>
  <details>
  <summary>Abstract</summary>
- Basic algebraic tools for equivariant homotopy theory. Introduce some basic definitions about representation theory, like representation ring, Mackey functor and so on.
+We compute the genuine equivariant cohomology ring of the complete flag manifold of the complex regular representation of C_3, with grading in the real representation ring and constant coefficients in the field with three elements. We give an explicit presentation of the ring and determine the products of equivariant Schubert classes. We also describe the kernel of restriction to the fixed-point set. This restriction is not injective in the full representation grading, and pairwise GKM-type congruences are not sufficient to characterize its image.
  </details>
  </li>
 
