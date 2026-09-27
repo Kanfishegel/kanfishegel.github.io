@@ -28,7 +28,27 @@ The work I do can be divided into two parts:
 
 - **<a href="https://kanfishegel.github.io/file/G-space and equivariant homotopy groups.pdf" target="_blank">G-space and Equivariant Homotopy Groups</a>**, Topology Seminar, University of Wisconsin-Madison, Mar. 13 2026
 
-### 1.2 Writing/Notes
+### 1.3 Writings
+
+<ul>
+<li>
+ <strong><a href="https://kanfishegel.github.io/file/Mackey functor and group homology.pdf" target="_blank">Notes on Mackey functor and group homology</a></strong>
+ <details>
+ <summary>Abstract</summary>
+ Basic algebraic tools for equivariant homotopy theory. Introduce some basic definitions about representation theory, like representation ring, Mackey functor and so on.
+ </details>
+ </li>
+
+<ul>
+<li>
+ <strong><a href="https://kanfishegel.github.io/file/Mackey functor and group homology.pdf" target="_blank">Notes on Mackey functor and group homology</a></strong>
+ <details>
+ <summary>Abstract</summary>
+ Basic algebraic tools for equivariant homotopy theory. Introduce some basic definitions about representation theory, like representation ring, Mackey functor and so on.
+ </details>
+ </li>
+
+### 1.3 Notes
 
 <ul>
 <li>
