@@ -28,7 +28,7 @@ The work I do can be divided into two parts:
 
 - **<a href="https://kanfishegel.github.io/file/G-space and equivariant homotopy groups.pdf" target="_blank">G-space and Equivariant Homotopy Groups</a>**, Topology Seminar, University of Wisconsin-Madison, Mar. 13 2026
 
-### 1.3 Writings
+### 1.2 Writings
 
 <ul>
 <li>
