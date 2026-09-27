@@ -39,7 +39,7 @@ The work I do can be divided into two parts:
  </details>
  </li>
 
-<ul>
+
 <li>
  <strong><a href="https://kanfishegel.github.io/file/Mackey functor and group homology.pdf" target="_blank">Notes on Mackey functor and group homology</a></strong>
  <details>
@@ -47,6 +47,8 @@ The work I do can be divided into two parts:
  Basic algebraic tools for equivariant homotopy theory. Introduce some basic definitions about representation theory, like representation ring, Mackey functor and so on.
  </details>
  </li>
+
+</ul>
 
 ### 1.3 Notes
 
