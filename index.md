@@ -25,7 +25,7 @@ I recently received my M.A. in Mathematics from the University of Wisconsin–Ma
 
 **Email:** <a href="mailto:kanfischegel@gmail.com">kanfischegel@gmail.com</a>
 
-**CV:** see <a href="file/Resume Yanfei Zhu.pdf" target="_blank"><span style="color: #e63946;">here</span></a>
+**CV:** see <a href="file/Resume_Yanfei%20Zhu.pdf" target="_blank"><span style="color: #e63946;">here</span></a>
 
 
 ## Academic Background
