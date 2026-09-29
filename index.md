@@ -21,7 +21,7 @@ title: Yanfei Zhu|Math
 
 My name is **Yanfei Zhu**.
 
-I recently received my M.A. in Mathematics from the University of Wisconsin–Madison in May 2026. I will be applying for 2027 Fall PhD programs in Mathematics. My research interests include equivariant homotopy theory, homological stability, and differential geometry and topology.
+I recently received my M.A. in Mathematics from the University of Wisconsin–Madison in May 2026. I will be applying for 2027 Fall PhD programs in Mathematics. I am interested in using algebraic and topological methods to study geometric problems, especially those involving manifolds. My current research focuses on equivariant homotopy theory and homological stability. I am also interested in optimization on manifolds.
 
 **Email:** <a href="mailto:kanfischegel@gmail.com">kanfischegel@gmail.com</a>
 
