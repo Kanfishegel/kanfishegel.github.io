@@ -42,6 +42,15 @@ We study the two lifts of the reflection action to oriented configuration spaces
 
 
 <li>
+ <strong><a href="https://kanfishegel.github.io/file/C_q.pdf" target="_blank">The RO(C<sub>q</sub>)-Graded Cohomology of Complete Flags in the Regular Representation</a></strong>
+ <details>
+ <summary>Abstract</summary>
+Revisiting our earlier computation for C<sub>3</sub>, we found that the method extends to cyclic groups of any odd prime order. We compute the genuine RO(C<sub>q</sub>)-graded cohomology ring of the complete flag variety of the complex regular representation of C<sub>q</sub>, with constant F<sub>q</sub> coefficients. We give an explicit presentation over the full coefficient ring and determine the products of normalized Schubert classes. We also determine the kernel and image of restriction to the fixed flags: its image involves higher Euler-class divisibility conditions that root-curve edge congruences do not detect. Finally, we describe the cohomology Mackey functor and the mod-q cohomology ring of the orbit space.
+ </details>
+ </li>
+
+
+<li>
  <strong><a href="https://kanfishegel.github.io/file/C_3.pdf" target="_blank">The RO(C3)-Graded Cohomolofy of A Complete Flag Varity</a></strong>
  <details>
  <summary>Abstract</summary>
