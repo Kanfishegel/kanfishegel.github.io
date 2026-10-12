@@ -24,9 +24,24 @@ The work I do can be divided into two parts:
 ## 1.Algebraic topology
 
 ### 1.1 Talks
-- **<a href="https://kanfishegel.github.io/file/Some_Example_for_Computation_of_Intersection_Homology.pdf" target="_blank">Some Examples for Computation of Intersection Homology</a>**, Intersection Homology Seminar, University of Wisconsin-Madison, Sep. 22 2025
 
-- **<a href="https://kanfishegel.github.io/file/G-space and equivariant homotopy groups.pdf" target="_blank">G-space and Equivariant Homotopy Groups</a>**, Topology Seminar, University of Wisconsin-Madison, Mar. 13 2026
+<ul>
+<li>
+ <strong><a href="https://kanfishegel.github.io/file/Some_Example_for_Computation_of_Intersection_Homology.pdf" target="_blank">Some Examples for Computation of Intersection Homology</a></strong>, Intersection Homology Seminar, University of Wisconsin-Madison, Sep. 22 2025
+ <details>
+ <summary>Abstract</summary>
+We illustrate Poincaré duality in intersection homology through computations on singular spaces. Using normalization, cone formulas, and Mayer-Vietoris sequences, we study a reducible projective curve, open cones, and the suspension of a torus, comparing the resulting groups and their duality pairings.
+ </details>
+</li>
+
+<li>
+ <strong><a href="https://kanfishegel.github.io/file/G-space and equivariant homotopy groups.pdf" target="_blank">G-space and Equivariant Homotopy Groups</a></strong>, Topology Seminar, University of Wisconsin-Madison, Mar. 13 2026
+ <details>
+ <summary>Abstract</summary>
+We introduce the basic language of equivariant homotopy theory for finite groups, including based G-spaces, equivariant mapping spaces, and weak equivalences detected on fixed points. We then discuss representation spheres, equivariant suspension and loop spaces, and the extension of equivariant homotopy groups to indices given by differences of representations.
+ </details>
+</li>
+</ul>
 
 ### 1.2 Writings
 
@@ -125,11 +140,32 @@ We compute the genuine equivariant cohomology ring of the complete flag manifold
 ## 2.Differential topology
 
 ### 2.1 Talks
-- **<a href="https://kanfishegel.github.io/file/Jacobi_Field.pdf" target="_blank">Jacobi Field</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, May. 18 2025
 
- - **<a href="https://kanfishegel.github.io/file/More_on_Positive_Curvature.pdf" target="_blank">More on Positive Curvature</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, Jul. 15 2025 
+<ul>
+<li>
+ <strong><a href="https://kanfishegel.github.io/file/Jacobi_Field.pdf" target="_blank">Jacobi Field</a></strong>, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, May. 18 2025
+ <details>
+ <summary>Abstract</summary>
+We introduce Jacobi fields through variations of geodesics and explain how sectional curvature governs the separation of nearby geodesics. Explicit examples in spaces of constant curvature lead to a discussion of conjugate points, their multiplicities, and their interpretation as singularities of the exponential map.
+ </details>
+</li>
 
- - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Fundamental Theorem of Morse Theory</a>**, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, Sep. 29 2025 
+<li>
+ <strong><a href="https://kanfishegel.github.io/file/More_on_Positive_Curvature.pdf" target="_blank">More on Positive Curvature</a></strong>, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, Jul. 15 2025
+ <details>
+ <summary>Abstract</summary>
+We introduce conjugate and injectivity radii and discuss Klingenberg's injectivity radius estimate for compact even-dimensional manifolds of positive sectional curvature. We also introduce the geodesic index form and outline how index estimates are used to study the connectivity of submanifold inclusions.
+ </details>
+</li>
+
+<li>
+ <strong><a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Fundamental Theorem of Morse Theory</a></strong>, Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, Sep. 29 2025
+ <details>
+ <summary>Abstract</summary>
+We discuss how Morse theory describes the homotopy type of path spaces on complete Riemannian manifolds, with cells corresponding to geodesics between nonconjugate endpoints and dimensions given by their Morse indices. We explain the role of broken geodesics and apply the theorem to the cell structure and homology of based loop spaces of spheres.
+ </details>
+</li>
+</ul>
 
 <!--注释起
 ### 2.2 Organized Workshops
