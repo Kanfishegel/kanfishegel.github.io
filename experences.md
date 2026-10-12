@@ -50,8 +50,8 @@ title: Experiences
 
 ### Preprints:
 
-- **The RO(C<sub>3</sub>)-graded cohomology of a complete flag variety**, Preprint, 2026.  
-  Computes the genuine equivariant cohomology ring, Schubert products, and fixed-point restriction.
+- **<a href="https://kanfishegel.github.io/file/C_q.pdf" target="_blank">The RO(C<sub>q</sub>)-Graded Cohomology of the Complete Flag Variety of ℂ[C<sub>q</sub>]</a>**, Preprint, 2026.  
+  Computes the genuine RO(C<sub>q</sub>)-graded cohomology ring of the complete flag variety of ℂ[C<sub>q</sub>] for any odd prime q, with constant F<sub>q</sub> coefficients, including Schubert products and fixed-point restriction.
 
 - **Two Lifted Actions on Oriented Configuration Spaces: Stabilization and Bredon Homology**, Preprint, 2026.  
   Finite generation of integral Bredon homology for oriented configuration spaces, using both lifts of a reflection action.
