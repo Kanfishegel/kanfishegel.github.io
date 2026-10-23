@@ -51,7 +51,7 @@ Revisiting our earlier computation for C<sub>3</sub>, we found that the method e
 
 
 <li>
- <strong><a href="https://kanfishegel.github.io/file/C_3.pdf" target="_blank">The RO(C3)-Graded Cohomolofy of A Complete Flag Varity</a></strong>
+ <strong><a href="https://kanfishegel.github.io/file/C_3.pdf" target="_blank">The RO(C3)-Graded Cohomology of a Complete Flag Variety</a></strong>
  <details>
  <summary>Abstract</summary>
 We compute the genuine equivariant cohomology ring of the complete flag manifold of the complex regular representation of C_3, with grading in the real representation ring and constant coefficients in the field with three elements. We give an explicit presentation of the ring and determine the products of equivariant Schubert classes. We also describe the kernel of restriction to the fixed-point set. This restriction is not injective in the full representation grading, and pairwise GKM-type congruences are not sufficient to characterize its image.
@@ -83,7 +83,7 @@ We compute the genuine equivariant cohomology ring of the complete flag manifold
  <strong><a href="https://kanfishegel.github.io/file/IWoAT2026_Notes.pdf" target="_blank">Notes on IWoAT 2026 Summer school</a></strong>
  <details>
  <summary>Abstract</summary>
- Introduce some basic definitions in stable homotopy theory and brave new algebra. The notes are compiled from my handwriting motes when participating in International Workshop of Algebra Topology 2026 Summer School.
+ Introduce some basic definitions in stable homotopy theory and brave new algebra. The notes are compiled from my handwritten notes when participating in International Workshop on Algebraic Topology 2026 Summer School.
  </details>
  </li>
 
