@@ -36,7 +36,7 @@ The work I do can be divided into two parts:
 and Bredon Homology</a></strong>
  <details>
  <summary>Abstract</summary>
-We study the two lifts of the reflection action to oriented configuration spaces of Euclidean space, where the fixed subspace has dimension at least two. We describe their fixed-point spaces and the parity condition relating the choice of lift to the number of free orbits. Combining both lifts and all configuration sizes, we prove that Bredon homology with constant integral coefficients is finitely generated in each homological degree over a polynomial ring in two variables with integer coefficients. The two variables act by adding a fixed point and a free orbit, respectively.
+We study the two lifts of a reflection to oriented configuration spaces of Euclidean space, with fixed subspace of dimension at least two. We describe their fixed-point spaces and construct commuting stabilization maps u and v that add a fixed point and a free orbit, respectively: u preserves each lift, while v exchanges them. Combining both lifts and all configuration sizes, we prove that Bredon homology with constant integral coefficients is finitely generated in every degree over ℤ[u, v], and over ℤ[u, v<sup>2</sup>] for each lift separately. We also compute the degree-zero module explicitly, exhibiting 2-torsion on which u has nonzero kernel for arbitrarily large configuration sizes; for unordered configurations, the corresponding map is injective in degree zero.
  </details>
  </li>
 

@@ -54,7 +54,7 @@ title: Experiences
   Computation of genuine equivariant cohomology, Schubert products, and fixed-point restriction for complete flags in the complex regular representation of C<sub>q</sub>, for any odd prime q.
 
 - **Two Lifted Actions on Oriented Configuration Spaces: Stabilization and Bredon Homology**, Preprint, 2026.  
-  Finite generation of integral Bredon homology for oriented configuration spaces, using both lifts of a reflection action.
+  Finite generation and an explicit degree-zero computation of integral Bredon homology for both lifted reflection actions on oriented configuration spaces, including a 2-torsion obstruction to injectivity of stabilization by adding a fixed point.
 
 ---
 
