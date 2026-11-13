@@ -51,7 +51,7 @@ title: Experiences
 ### Preprints:
 
 - **The RO(C<sub>q</sub>)-Graded Cohomology of the Complete Flag Variety of ℂ[C<sub>q</sub>]**, Preprint, 2026.  
-  Computation of genuine equivariant cohomology, Schubert products, and fixed-point restriction for complete flags in the complex regular representation of C<sub>q</sub>, for any odd prime q.
+  Computation of genuine RO(C<sub>q</sub>)-graded cohomology and Schubert calculus for complete flags in ℂ[C<sub>q</sub>], for odd prime q, including the nonzero square-zero kernel of restriction to fixed flags and the precise defect of root-curve congruences.
 
 - **Two Lifted Actions on Oriented Configuration Spaces: Stabilization and Bredon Homology**, Preprint, 2026.  
   Finite generation and an explicit degree-zero computation of integral Bredon homology for both lifted reflection actions on oriented configuration spaces, including a 2-torsion obstruction to injectivity of stabilization by adding a fixed point.
