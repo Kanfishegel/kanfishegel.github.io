@@ -21,6 +21,16 @@ title: Experiences
 
 ---
 
+## Academic conference participation:
+
+- **International Workshop on Algebraic Topology 2025: Computations with the Adams Spectral Sequence and the Last Kervaire Invariant Problem**, Westlake University, Hangzhou, Jul. 2025
+  
+- **International Workshop on Algebraic Topology 2026: An Introduction to Stable Homotopy Theory and Brave New Algebra**, Chinese Academy of Sciences, Beijing, Aug. 2026
+
+- **Summer School at the University of Science and Technology of China 2025: Topic in geometry and analysis**, Hefei, Jul. 2025
+
+---
+
 ## Research and reading experience:
 
 - **Directed Reading in Intersection Homology**, Aug. 2025 – Dec. 2025  
@@ -55,16 +65,6 @@ title: Experiences
 
 - **Two Lifted Actions on Oriented Configuration Spaces: Stabilization and Bredon Homology**, Preprint, 2026.  
   Finite generation and an explicit degree-zero computation of integral Bredon homology for both lifted reflection actions on oriented configuration spaces, including a 2-torsion obstruction to injectivity of stabilization by adding a fixed point.
-
----
-
-## Academic conference participation:
-
-- **International Workshop on Algebraic Topology 2025: Computations with the Adams Spectral Sequence and the Last Kervaire Invariant Problem**, Westlake University, Hangzhou, Jul. 2025
-  
-- **International Workshop on Algebraic Topology 2026: An Introduction to Stable Homotopy Theory and Brave New Algebra**, Chinese Academy of Sciences, Beijing, Aug. 2026
-
-- **Summer School at the University of Science and Technology of China 2025: Topic in geometry and analysis**, Hefei, Jul. 2025
 
 ---
 
