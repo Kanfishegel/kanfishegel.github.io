@@ -25,10 +25,12 @@ The work I do can be divided into two parts:
 
 ### 1.1 Talks
 - **<a href="https://kanfishegel.github.io/file/Some_Example_for_Computation_of_Intersection_Homology.pdf" target="_blank">Some Examples for Computation of Intersection Homology</a>**  
-  Intersection Homology Seminar, University of Wisconsin-Madison, Sep. 22 2025
+  Intersection Homology Seminar  
+  University of Wisconsin-Madison, Sep. 22 2025
 
 - **<a href="https://kanfishegel.github.io/file/G-space and equivariant homotopy groups.pdf" target="_blank">G-space and Equivariant Homotopy Groups</a>**  
-  Topology Seminar, University of Wisconsin-Madison, Mar. 13 2026
+  Topology Seminar  
+  University of Wisconsin-Madison, Mar. 13 2026
 
 ### 1.2 Writings
 
@@ -127,13 +129,16 @@ We compute the genuine equivariant cohomology ring of the complete flag manifold
 
 ### 2.1 Talks
 - **<a href="https://kanfishegel.github.io/file/Jacobi_Field.pdf" target="_blank">Jacobi Field</a>**  
-  Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, May. 18 2025
+  Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory  
+  University of Wisconsin-Madison, May. 18 2025
 
  - **<a href="https://kanfishegel.github.io/file/More_on_Positive_Curvature.pdf" target="_blank">More on Positive Curvature</a>**  
-   Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, Jul. 15 2025
+   Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory  
+   University of Wisconsin-Madison, Jul. 15 2025
 
  - **<a href="https://kanfishegel.github.io/file/Fundamental_Theorem_of_Morse_Theory.pdf" target="_blank">Fundamental Theorem of Morse Theory</a>**  
-   Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory, University of Wisconsin-Madison, Sep. 29 2025
+   Directed Reading by Ruobing Zhang on Riemannian Geometry and Morse Theory  
+   University of Wisconsin-Madison, Sep. 29 2025
 
 <!--注释起
 ### 2.2 Organized Workshops
