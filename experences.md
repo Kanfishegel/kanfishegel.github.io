@@ -23,10 +23,6 @@ title: Experiences
 
 ## Research and reading experience:
 
-- **Directed Reading in Manifold Optimization**, Jun. 2026 – Present  
-  Advisor: Prof. Qinglin Tang, Sichuan University  
-  Topics: Manifold optimization
-
 - **Directed Reading in Intersection Homology**, Aug. 2025 – Dec. 2025  
   Advisor: Prof. Laurentiu Maxim, Mathematics Department, UW–Madison  
   Topics: Intersection homology, sheaves on topological spaces, Verdier duality
@@ -38,6 +34,10 @@ title: Experiences
 - **Directed Reading in Homological Stability**, Apr. 2025 – Jul. 2025  
   Advisor: Prof. Yifei Zhu, Mathematics Department, SUSTech  
   Topics: Homological stability, configuration spaces, FI-modules, braid groups
+
+- **Directed Reading in Manifold Optimization**, Jun. 2026 – Present  
+  Advisor: Prof. Qinglin Tang, Sichuan University  
+  Topics: Manifold optimization
 
 - **Undergraduate Thesis**, Dec. 2024 – Jul. 2025  
   Symmetry of Solutions in Nonlinear Aggregation-Diffusion Equations and Its Applications  
